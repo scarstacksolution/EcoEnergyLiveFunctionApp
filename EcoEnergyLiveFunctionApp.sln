@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoEnergyLiveFunctionApp", "EcoEnergyLiveFunctionApp.csproj", "{2D4FA8D0-A0B9-44D1-9B6B-EEE41BCBF16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4FA8D0-A0B9-44D1-9B6B-EEE41BCBF16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4FA8D0-A0B9-44D1-9B6B-EEE41BCBF16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4FA8D0-A0B9-44D1-9B6B-EEE41BCBF16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4FA8D0-A0B9-44D1-9B6B-EEE41BCBF16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDF5D8E-26D1-490A-9955-19821D1B3B81}
+	EndGlobalSection
+EndGlobal
